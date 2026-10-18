@@ -1,0 +1,18 @@
+# Ambientes virtuais
+.venv/
+venv/
+
+# Arquivos gerados pelo Python
+__pycache__/
+*.py[cod]
+
+# Caches e arquivos locais de ferramentas
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.env
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db

@@ -47,6 +47,8 @@ O menu é exibido continuamente até a escolha de saída:
 3. **Sair da aplicação:** encerre o programa.
 4. **Concluir tarefa:** informe o ID de uma tarefa existente e pendente para alterar seu status para **Concluída**.
 
+A opção **3. Sair** segue o menu exigido na Fase 2. A opção **4. Concluir tarefa** preserva a funcionalidade prevista no planejamento da Fase 1.
+
 Exemplo de cadastro: título `Entregar atividade`, descrição `Revisar o PDF`, prioridade `Alta` e data limite `20/12/2026`.
 
 ## Limitações desta fase

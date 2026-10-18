@@ -51,6 +51,10 @@ A opção **3. Sair** segue o menu exigido na Fase 2. A opção **4. Concluir ta
 
 Exemplo de cadastro: título `Entregar atividade`, descrição `Revisar o PDF`, prioridade `Alta` e data limite `20/12/2026`.
 
+## Apresentação em vídeo
+
+[Assista à demonstração da Fase 2 no YouTube](https://youtu.be/DomRQztjaBw).
+
 ## Limitações desta fase
 
 As tarefas ficam somente na memória do programa. Ao sair, os cadastros e as alterações de status são perdidos. Esta versão funciona localmente no terminal e não possui banco de dados nem interface gráfica.

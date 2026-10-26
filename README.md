@@ -93,8 +93,7 @@ Exemplo de cadastro: título `Entregar atividade`, descrição `Revisar o PDF`, 
 
 ## Apresentação em vídeo
 
-- Fase 3 (Docker): _link a ser adicionado_
-- [Fase 2 (Python e Git)](https://youtu.be/DomRQztjaBw)
+[Assista à demonstração no YouTube](https://youtu.be/DomRQztjaBw).
 
 ## Limitações
 
